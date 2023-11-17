@@ -37,4 +37,4 @@ We'll use the `CampusMap` class to **aggregate** many different `Building`s toge
 Expanding on the example in `CampusMap.main(...)`, add at least 10 more of your favorite Smith College buildings.
 
 ## Kudos (OPTIONAL)
-Want to test your programming chops out on a stretch goal that will help prepare you for your final project? See if you can make your map **interactive** by implementing a `loop` that enables the user to explore various buildings and make use of their various methods (e.g. moving into a `House`, checking out a book at the `Library` or buying a cup of coffee at the `Cafe`).
+Want to test your programming chops out on a stretch goal that will help prepare you for your final project? See if you can make your map **interactive** by implementing a `loop` that enables the user to explore various buildings and make use of their various methods (e.g. moving into a `House`, checking out a book at the `Library` or buying a cup of coffee at the `Cafe`). 
