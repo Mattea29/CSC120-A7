@@ -12,3 +12,5 @@ For the Cafe Class:
 
 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I had to give myself an extension for this assignment because of other assignments and time management, so I was very scared to actually do the assignment. However, I found it very enjoyable to actually try overriding and overloading methods. It definitely helped to plan out which method made the most sense to change, by seeing which methods I could change substantially rather than just adding one variable, for example. While my time management definitely could have been better, I think the assignment went well overall, and once I started with one class, it all made more sense to me. I would tell someone that sometimes computer science terminology can be intimidating and it can feel like it's more complicated than it is, but trying different approaches and honestly just starting it even if you're not sure it's correct is super helpful and will help you get into the flow. 
